@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started![elevate_task](https://github.com/user-attachments/assets/2316ba26-a6a3-46ba-902f-398c2a6c75db)
+## Getting Started![elevate_task](https://github.com/user-attachments/assets/c36734a3-b7b1-47a7-aedc-72d100f22f9b)
+
 
 
 This project is a starting point for a Flutter application.
