@@ -15,7 +15,7 @@ class AppStyle {
   static TextStyle ProductDesc = TextStyle(
     fontWeight: FontWeight.normal,
     fontSize: 13.sp,
-    color:Color(0xFF004B94),
+    color: Color(0xFF004B94),
   );
   static TextStyle reviewText = TextStyle(
     fontWeight: FontWeight.normal,

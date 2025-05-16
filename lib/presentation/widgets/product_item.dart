@@ -77,14 +77,13 @@ class _ProductItemState extends State<ProductItem> {
                       overflow: TextOverflow.ellipsis,
                       style: AppStyle.productTitle,
                     ),
-                    SizedBox(height: 3.h),
                     Text(
                       widget.product.description,
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                       style: AppStyle.ProductDesc,
                     ),
-                    SizedBox(height: 5.h),
+                    SizedBox(height: 8.h),
                     Row(
                       children: [
                         Text(
@@ -97,6 +96,7 @@ class _ProductItemState extends State<ProductItem> {
                           style: AppStyle.productPrice.copyWith(
                             color: Color(0xFF0066CC),
                             decoration: TextDecoration.lineThrough,
+                            fontWeight: FontWeight.normal,
                           ),
                         )
                       ],
